@@ -14,11 +14,11 @@ bot = Client(
     "Bot",
     api_id = 1,
  api_hash = "a",
- bot_token = "bibQYCTDpJcHslPDzXJ7J1Jg"
+ bot_token = "JKDHSIUD5F5SUSGJKDSD"
 )
 
-bot_token = "7bibQYCTDpJcHslPDzXJ7J1Jg"   # Your Bot Token
-CHANNEL = "Y88F8"   #Your channel username without @ 
+bot_token = "JKDHSIUD5F5SUSGJKDSD"   # Your Bot Token
+CHANNEL = "Ian DubaiDeveloper"   #Your channel username without @ 
 
        
 @bot.on_message(filters.command("start") & filters.private)
